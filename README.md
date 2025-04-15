@@ -3,7 +3,7 @@ Clinical-R1-3B: A reinforcement learning-based model inspired by DeepSeek-R1, de
 
 This repository is based on [veRL](https://github.com/volcengine/verl) and [Qwen-2.5-3B](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct).
 
-All datasets and models are available on the [HF Collection]().
+All datasets and models are available on the [HF Collection](https://huggingface.co/collections/SunshineAndRain/clinical-r1-3b-67fe5e837772426291062fc0).
 
 ## Installation
 
