@@ -1,5 +1,10 @@
-data/*
+data/raw/medmcqa_train.json
+data/processed/*
+data/verl/*
+!data/processed/.gitkeep
+!data/verl/.gitkeep
 model_checkpoints/*
+!model_checkpoints/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
